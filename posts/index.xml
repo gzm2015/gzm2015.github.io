@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Nginx 笔记</title>
+      <link>http://gzm2015.github.io/posts/nginx/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://gzm2015.github.io/posts/nginx/</guid>
+      <description>测试hugo 写笔记情况</description>
+    </item>
+    
   </channel>
 </rss>
